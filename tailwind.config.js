@@ -16,6 +16,11 @@ export default {
 
       width: {
         'container-site' : '1140px'
+      },
+
+      backgroundImage: {
+        'filmes' : 'url(assets/bg-filmes.jpg)',
+        'series' : 'url(assets/bg-series.jpg)',
       }
 
     },
