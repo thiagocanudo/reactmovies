@@ -14,8 +14,13 @@ export default {
         'brand-yellow': '#FAFF00',
       },
 
-      width: {
-        'container-site' : '1140px'
+      maxWidth: {
+        'max-w-container-site' : '1140px'
+      },
+
+      backgroundImage: {
+        'filmes' : 'url(assets/bg-filmes.jpg)',
+        'series' : 'url(assets/bg-series.jpg)',
       }
 
     },

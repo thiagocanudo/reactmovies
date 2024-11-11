@@ -9,8 +9,29 @@
         @apply text-white;
     }
 
-    h1{
-        @apply text-5xl;
-        font-size: 48px;
+    html{
+        font-family: "Montserrat", sans-serif;
     }
+
+    h3{
+        @apply font-bold;
+    }
+
+    /* @screen md{
+        h3{
+            @apply text-5xl;
+        }
+    } */
+
+    h4{
+        @apply font-bold;
+    }
+
+    /* @screen md{
+        h3{
+            @apply text-3xl;
+        }
+    } */
+
+
 }
